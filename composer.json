@@ -1,5 +1,5 @@
 {
-    "name": "league/glide-symfony",
+    "name": "webstone/glide-symfony",
     "description": "Glide adapter for Symfony",
     "homepage": "http://glide.thephpleague.com",
     "license": "MIT",
